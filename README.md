@@ -12,7 +12,7 @@ https://data.cityofnewyork.us/resource/592z-n7dk.json?
 # Architecture Diagram
 ![NewYork_City_Bikes_Architecture](https://github.com/user-attachments/assets/cd1f680a-7cd7-48c7-bd92-b6cf2f5b8db6)
 
-#Tech Stack
+# Tech Stack
 AWS Cloud Services
 1. AWS Lambda
 2. AWS EventBridge
