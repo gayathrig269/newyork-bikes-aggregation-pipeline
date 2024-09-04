@@ -23,5 +23,5 @@ AWS Cloud Services
 
 
 # Data Visualization
-[https://gayathrig269.grafana.net/d/edwby32vlyl1cd/new-york-bikes-data?viewPanel=panel-1&from=2024-09-04T17:20:02.252Z&to=2024-09-04T23:20:02.253Z](url)
+https://gayathrig269.grafana.net/d/edwby32vlyl1cd/new-york-bikes-data?viewPanel=panel-1&from=2024-09-04T17:20:02.252Z&to=2024-09-04T23:20:02.253Z
 
