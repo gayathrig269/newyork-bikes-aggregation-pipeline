@@ -12,13 +12,9 @@ The data contains locations of all bike parking throughout the five boroughs as 
 
 # What is in this Data set?
 
-Column Name	        Description	                                                  API Field Name	                                Data Type
-the_geom	         Geometry column used for mapping	                               the_geom	                                      Point
-Borocode	         Borough and Community District code of the bicycle rack.	        Borocode	                                    Text
-BoroName	         The full name of the borough where the bicycle rack is located. 	boroname	                                    Text
-borocd		                                                                          borocd	                                      Text
-Program	            Name of program	                                                program	                                      Text
-Borough	           The full name of the borough the bicycle rack is located in. 	  borough	                                      Text
+
+![image](https://github.com/user-attachments/assets/76f130fc-2c87-4c30-b35a-c26c1c3fb64f)
+
 
 
 
