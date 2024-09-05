@@ -20,8 +20,6 @@ borocd		                                                                        
 Program	            Name of program	                                                program	                                      Text
 Borough	           The full name of the borough the bicycle rack is located in. 	  borough	                                      Text
 
-![image](https://github.com/user-attachments/assets/07103747-02e5-4d7c-bd7e-c5ad35bc3a6a)
-
 
 
 # Architecture Diagram
