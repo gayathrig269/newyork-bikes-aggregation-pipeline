@@ -1,5 +1,5 @@
 # newyork-bikes-aggregation-pipeline
-An automated serverless data engineering pipeline that ingests NewYork city bikes data for each borough into an ETL (Extract Transform Load) workflow using AWS cloud services, followed by data visualization in Grafana.
+An automated serverless data engineering pipeline that ingests NewYork city bikes data parked in each borough into an ETL (Extract Transform Load) workflow using AWS cloud services, followed by data visualization in Grafana.
 
 # Aim
 To populate the city bikes data in New York for each borough, aggregate them and visualize them on a Dashboard
