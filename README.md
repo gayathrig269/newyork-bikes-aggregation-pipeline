@@ -6,7 +6,22 @@ To populate the city bikes data in New York for each borough, aggregate them and
 
 
 # Data Source
-https://data.cityofnewyork.us/resource/592z-n7dk.json?
+
+https://data.cityofnewyork.us/Transportation/Bicycle-Parking/592z-n7dk/about_data
+The data contains locations of all bike parking throughout the five boroughs as of the date of publication. The data is in shapefile format.
+
+# What is in this Data set?
+
+Column Name	        Description	                                                  API Field Name	                                Data Type
+the_geom	         Geometry column used for mapping	                               the_geom	                                      Point
+Borocode	         Borough and Community District code of the bicycle rack.	        Borocode	                                    Text
+BoroName	         The full name of the borough where the bicycle rack is located. 	boroname	                                    Text
+borocd		                                                                          borocd	                                      Text
+Program	            Name of program	                                                program	                                      Text
+Borough	           The full name of the borough the bicycle rack is located in. 	  borough	                                      Text
+
+![image](https://github.com/user-attachments/assets/07103747-02e5-4d7c-bd7e-c5ad35bc3a6a)
+
 
 
 # Architecture Diagram
